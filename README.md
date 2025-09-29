@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Miguel Garfduño</h1>
+<h1 align="center">Hi 👋 I'm Miguel Garduño</h1>
 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [miguelgardunom@gmail.com](mailto:miguelgardunom@gmail.com)
