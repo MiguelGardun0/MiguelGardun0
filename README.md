@@ -2,10 +2,10 @@
 
 * 🌍  I'm based in Mexico City
 * ✉️  You can contact me at [miguelgardunom@gmail.com](mailto:miguelgardunom@gmail.com)
-* 🧠  I'm currently learning TensorFlow,Deep Learning and FastAPI
+* 🧠  I'm currently learning Pytorch and FastAPI
 
 # 💫 About Me:
-I am a second-year computer science and engineering student at Tecnologico de Monterrey, passionate about machine learning, and building software engineering applications.
+I am a second-year computer science and engineering student at Tecnologico de Monterrey, passionate about machine learning, data modeling and building software engineering applications.
 
 ## 🚀 What I'm Up To
 
